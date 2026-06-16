@@ -35,3 +35,24 @@
 - Install required libraries:
 ```bash
 pip install speechrecognition pyttsx3
+## 🚀 Run Jarvis
+```bash
+python jarvis.py
+
+📂 Project Structure Code
+Jarvis---Virtual-AI-Assistant/
+│
+├── jarvis.py          # Main assistant script
+├── requirements.txt   # Dependencies
+├── README.md          # Project documentation
+└── assets/            # Optional audio or config files
+
+📬 Contact
+Author: Virendra Sharma
+📧 Email: sharma.vishu0713@gmail.com
+🔗 LinkedIn: linkedin.com/in/virendra-sharma-4531933a0
+💻 GitHub: github.com/VirendraSharma1234
+
+⭐ Contribute
+Pull requests are welcome! For major changes, please open an issue first to discuss improvements.
+If you find Jarvis helpful, don’t forget to star ⭐ this repo!
